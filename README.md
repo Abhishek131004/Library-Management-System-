@@ -91,7 +91,7 @@ Stores information about books borrowed by members.
 
 ---
 
-## 🔗 Database Relationships
+##  Database Relationships
 
 The database follows this relationship:
 
@@ -113,7 +113,7 @@ Members
 
 ---
 
-## 📊 Sample Data
+##  Sample Data
 
 The database contains sample data for:
 
@@ -391,7 +391,7 @@ The project can be extended by adding:
 
 BTECH – Information Technology
 
-Interested in **Data Analytics, SQL, Python, Machine Learning**.
+Interested in **Data Analytics, SQL, Python,Power BI,Statistic, Machine Learning**.
 
 ---
 
